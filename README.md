@@ -1,1 +1,1 @@
-# readme-generator
+{"project":"john's project"}
