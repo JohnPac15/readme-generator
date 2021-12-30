@@ -89,7 +89,7 @@ const Questions = [
     {
         type: 'input',
         name: 'testing',
-        message: "would you like to add testing instructions ? "
+        message: "Please add some testing instructions ? "
     },
 ]
 
