@@ -75,7 +75,7 @@ generateContribrute = function (data) {
         
         +"\n ### 4. Permanent Ban"
         
-        +"\n **Community Impact**: Demonstrating a pattern of violation of community standards, including sustained inappropriate behavior, harassment of an individual, or aggression toward or disparagement of classes of individuals.`)"
+        +"\n **Community Impact**: Demonstrating a pattern of violation of community standards, including sustained inappropriate behavior, harassment of an individual, or aggression toward or disparagement of classes of individuals."
         )
     }
 }
@@ -135,6 +135,8 @@ const readmeTemp = (questionData) => {
     
 
     +"\n ## Features "
+    +"\n " + questionData.feature
+
     
 
     +"\n ## Contributing "

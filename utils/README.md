@@ -1,22 +1,23 @@
- # Testing the readme generator
+ # Readme Generate
  ## Description 
- I am justy testing the app for testing 
+ ddddd
  ## Table of Contents
  * [Installation](#installation)
  * [Usage](#usage)
  * [Credits](#credits)
  * [License](#license)
  ## Installation
-download and go
+downlopad and go
  ## Usage 
- use and you plase
+ sss
  ## Credits 
- Bison Antonio
+ ssss
  ## License 
  BSD 
  ## Badges 
  [![License](https://img.shields.io/badge/License-BSD_3--Clause-orange.svg)](https://opensource.org/licenses/BSD-3-Clause)
  ## Features 
+ it makes a readme
  ## Contributing 
  # Contributor Covenant Code of Conduct NaN
  We as members, contributors, and leaders pledge to make participation in our community a harassment-free experience for everyone, regardless of age, body size, visible or invisible disability, ethnicity, sex characteristics, gender identity and expression, level of experience, education, socio-economic status, nationality, personal appearance, race, caste, color, religion, or sexual identity and orientation.
@@ -59,9 +60,9 @@ download and go
  ### 4. Permanent Ban
  **Community Impact**: Demonstrating a pattern of violation of community standards, including sustained inappropriate behavior, harassment of an individual, or aggression toward or disparagement of classes of individuals.`)
  ## Testing 
-just test
+jghjgj
  ## Questions 
- Made by John 
+ Made by ko
 
  https://github.com/Johnpac15
 

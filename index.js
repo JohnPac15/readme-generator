@@ -48,6 +48,11 @@ const Questions = [
     },
     {
         type: 'input',
+        name: 'feature',
+        message: "Please add any features you would like to add"
+    },
+    {
+        type: 'input',
         name: 'description',
         message: "Please enter a discription of the project",
         validate: projectTitle => {
