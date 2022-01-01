@@ -17,6 +17,8 @@ First, you are going need to make you have Node.js downloaded. Next, you will ne
  ## Badges 
  [![License](https://img.shields.io/badge/License-Boost_1.0-lightblue.svg)](https://www.boost.org/LICENSE_1_0.txt)
  ## Features 
+ *Node.js
+ *inquirer
  ## Contributing 
  ### Contributor Covenant Code of Conduct
  We as members, contributors, and leaders pledge to make participation in our community a harassment-free experience for everyone, regardless of age, body size, visible or invisible disability, ethnicity, sex characteristics, gender identity and expression, level of experience, education, socio-economic status, nationality, personal appearance, race, caste, color, religion, or sexual identity and orientation.
