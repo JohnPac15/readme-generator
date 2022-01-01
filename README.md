@@ -72,3 +72,5 @@ To test this application you will first need to have Node.js installed on your c
 
  https://github.com/JohnPac15/readme-generator
 
+ <img width="1389" alt="Screen Shot 2022-01-01 at 2 04 52 PM" src="https://user-images.githubusercontent.com/88564390/147859212-065ca078-aad1-49cc-9334-57d5a104ac65.png">
+
