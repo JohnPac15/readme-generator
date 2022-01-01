@@ -1,4 +1,6 @@
 const inquirer = require("inquirer");
+const axios = require("axios")
+
 
 generateContribrute = function (data) {
     if(!data){
@@ -6,7 +8,7 @@ generateContribrute = function (data) {
     }
     else{
         return (
-        "# Contributor Covenant Code of Conduct "+
+        "# Contributor Covenant Code of Conduct"
 
         +"\n ## Our Pledge "
         
@@ -79,6 +81,13 @@ generateContribrute = function (data) {
         )
     }
 }
+generateGithub = function(data) {
+        axios.get("https://api.github.com/users/"+data)
+        .then(function(githubData) {
+            console.log(githubData)
+        })
+
+}
 
 generateLicense = function (data) {
     console.log(data)
@@ -150,7 +159,7 @@ const readmeTemp = (questionData) => {
 
     +"\n Made by " + questionData.username +"\n"
 
-    +"\n https://github.com/"+ questionData.github +"\n"
+    +"\n https://github.com/"+ questionData.github 
 
     +"\n " + questionData.email
 

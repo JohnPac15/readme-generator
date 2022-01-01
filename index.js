@@ -49,7 +49,7 @@ const Questions = [
     {
         type: 'input',
         name: 'feature',
-        message: "Please add any features you would like to add"
+        message: "Please add any features you would like to showcase"
     },
     {
         type: 'input',
@@ -82,7 +82,7 @@ const Questions = [
     {
         type: 'list',
         name: 'license',
-        message: 'What ype of license would you like? ',
+        message: 'What type of license would you like? ',
         choices: ['Apache 2.0','Boost','BSD' ],
         
     },

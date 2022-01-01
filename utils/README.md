@@ -1,25 +1,26 @@
- # Readme Generate
+ # testing for the video
  ## Description 
- ddddd
+ it reads me 
  ## Table of Contents
  * [Installation](#installation)
  * [Usage](#usage)
  * [Credits](#credits)
  * [License](#license)
  ## Installation
-downlopad and go
+download and go
  ## Usage 
- sss
+ anytime you need a readme file
  ## Credits 
- ssss
+ everyone
  ## License 
  BSD 
  ## Badges 
  [![License](https://img.shields.io/badge/License-BSD_3--Clause-orange.svg)](https://opensource.org/licenses/BSD-3-Clause)
  ## Features 
- it makes a readme
+ testing the features for the video
  ## Contributing 
- # Contributor Covenant Code of Conduct NaN
+ # Contributor Covenant Code of Conduct
+ ## Our Pledge 
  We as members, contributors, and leaders pledge to make participation in our community a harassment-free experience for everyone, regardless of age, body size, visible or invisible disability, ethnicity, sex characteristics, gender identity and expression, level of experience, education, socio-economic status, nationality, personal appearance, race, caste, color, religion, or sexual identity and orientation.
  We pledge to act and interact in ways that contribute to an open, welcoming, diverse, inclusive, and healthy community.
  ## Our Standards
@@ -58,12 +59,11 @@ downlopad and go
  **Community Impact**: A serious violation of community standards, including sustained inappropriate behavior.
  **Consequence**: A temporary ban from any sort of interaction or public communication with the community for a specified period of time. No public or private interaction with the people involved, including unsolicited interaction with those enforcing the Code of Conduct, is allowed during this period. Violating these terms may lead to a permanent ban.
  ### 4. Permanent Ban
- **Community Impact**: Demonstrating a pattern of violation of community standards, including sustained inappropriate behavior, harassment of an individual, or aggression toward or disparagement of classes of individuals.`)
+ **Community Impact**: Demonstrating a pattern of violation of community standards, including sustained inappropriate behavior, harassment of an individual, or aggression toward or disparagement of classes of individuals.
  ## Testing 
-jghjgj
+just test it
  ## Questions 
- Made by ko
+ Made by Johnny P
 
  https://github.com/Johnpac15
-
  Johnpac15@yahoo.com
