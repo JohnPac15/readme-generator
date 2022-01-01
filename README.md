@@ -62,7 +62,7 @@ First, you are going need to make you have Node.js downloaded. Next, you will ne
  **Community Impact**: Demonstrating a pattern of violation of community standards, including sustained inappropriate behavior, harassment of an individual, or aggression toward or disparagement of classes of individuals.`)
  ## Testing 
 Quick Video App testing
-https://watch.screencastify.com/v/Bl3tHYdYDDynO1LbVsDH
+https://watch.screencastify.com/v/32Mepk5WKB9RoOWlWjWv
 
 To test this application you will first need to have Node.js installed on your computer, along with VS code. Also, if you plan to make changes please fork the code from my repo, and request a merge.
  ## Questions 

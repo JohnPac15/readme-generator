@@ -9,7 +9,7 @@
  ## Installation
 download and go
  ## Usage 
- anytime you need a readme file
+ anytime you need a read me file
  ## Credits 
  everyone
  ## License 
